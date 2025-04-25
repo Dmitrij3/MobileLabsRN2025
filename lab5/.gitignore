@@ -3,9 +3,6 @@
 # dependencies
 node_modules/
 
-#ide
-.idea/
-.DS_Store/
 # Expo
 .expo/
 dist/
